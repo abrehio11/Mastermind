@@ -1,0 +1,1 @@
+This is just like the game mastermind, where the program gives you feedback if you have guessed the right color, and then if you've guessed the right color in the correct place. You want to find the correct sequence of colors. In my personal version, the feedback tells you if you've got any in the right position or any of the right color. 
